@@ -2,7 +2,7 @@
 
 [BASTA Workshop](https://basta.net/html5-javascript/cross-plattform-workshop/), Freitag, 28. September 2018 08:30 - 16:30
 
-Your trainers: [Christian Liebel](https://twitter.com/chris_liebel), [Steffen Jahr](https://twitter.com/steffenjahr), Thinktecture.
+Your trainers: [Christian Liebel](https://twitter.com/christianliebel), [Steffen Jahr](https://twitter.com/steffenjahr), Thinktecture.
 
 ## Setup
 
