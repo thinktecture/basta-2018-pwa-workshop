@@ -34,7 +34,7 @@ Please bring your developer devices and install the following software. [Already
   - [Visual Studio Code](https://code.visualstudio.com/), recent version
   - Notepad, vi, …
 
-### Step 2: Demo Repository
+### Step 2: Install Angular CLI
 
 On your favorite terminal, please run:
 
@@ -44,9 +44,16 @@ npm cache verify
 npm install -g @angular/cli@6.2.2
 ```
 
+The installation was successful, when the following command shows Angular CLI’s version information:
+
+```
+ng version
+```
+
+### Step 3: Clone Demo Repository
+
 Next, navigate to a folder of your choice and execute:
 
-## UPDATE REPO LINKS
 ```
 git clone https://github.com/thinktecture/basta-2018-pwa-workshop.git
 cd basta-2018-pwa-workshop/api
